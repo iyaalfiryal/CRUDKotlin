@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD Kotlin</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="desc">Desc</string>
+    <string name="save">save</string>
+</resources>
